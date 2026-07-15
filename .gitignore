@@ -33,7 +33,5 @@ build/
 .vscode/
 
 # Sensitive properties and secrets
-**/application.properties
-!**/application.properties.example
 **/.env
 **/.env.local
